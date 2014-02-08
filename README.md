@@ -1,6 +1,7 @@
 programmingExercises2014
 ========================
 Good evening ladies and gentleman:
+
 ProgrammingExercises2014 is a to do bucket list for my 2014 career change (i.e. government to programming/computerscience/softwareDev)  I would like to dedicate this repository for prepping for some computer science classes for the spring of 2014 and other personal goals to finally grasp Algorithms and Programming with Logic and Design.  Most(majority) of these exercises will originate from:
 
   "Starting out with >>> Programming Logic and Design" by Tony Gaddis (3rd edition) 
@@ -13,9 +14,9 @@ Cheers,
 shotokun16
 
 Programs:
-[VM Player]: Ubuntu 32-bit, g++, text editior, nano, vim, nanon, and emacs
+[VM Player]: Ubuntu 32-bit, g++, text editior, nano, vim, nano, and emacs
 
 Windows 7, Visual Studio 2012 Ultimate (education version), notepad++, and IntelliJ IDEA*
 
-Goal: 5-6 to compete in my first toopcoder alrotihm competition. (July 2014 and August 2014) 
+Goal: 5-6 months until my first toopcoder algorithm competition. (July 2014 and August 2014) 
 "Trust myself, break the rules, work hard, think differently, simplify, willing to fail, and give back" 

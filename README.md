@@ -10,7 +10,8 @@ ProgrammingExercises2014 is a to do bucket list for my 2014 career change (i.e. 
   
 And a majority of them will be written in C++, Java, and hopefully PHP.  I'll also create a psuedo code and try to get in five problems every 2-days and hopefully complete ten problems a week (beginning 2/7/14-TBD).  Feel free to chime in and point out flaws or errors in my pseudo or coding process.  
 
-Cheers,
+Cheers
+
 shotokun16
 
 Programs:

@@ -19,5 +19,5 @@ Programs:
 
 Windows 7, Visual Studio 2012 Ultimate (education version), notepad++, and IntelliJ IDEA*
 
-Goal: 5-6 months until my first toopcoder algorithm competition. (July 2014 and August 2014) 
+Goal: 5-6 months until my first topcoder algorithm competition. (July 2014 and August 2014) 
 "Trust myself, break the rules, work hard, think differently, simplify, willing to fail, and give back" 

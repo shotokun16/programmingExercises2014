@@ -5,6 +5,33 @@ Design a program that dispalys the following information
 - Your address, with city, state, and Zip
 - Your telphone number
 - your college Major 
+
+/****
+Pseudoe Code:
+Start
+Declare name string
+Declare address integer 
+Declare city string 
+Declare state string 
+Declare zip string
+Declare telephoneNum integer 
+Declare collegeMaj string
+
+Display "What is your name: " 
+input name  
+Display "What is your address: " 
+input address
+Display "what is your city: " 
+input city 
+Display "what is your state: "
+input state 
+Declare "what is your zip code: " 
+input zip 
+Declare "what is your Telephone number: " 
+input telephoneNum
+Declare "what is your college major: "
+input collegeMaj 
+Display "Your Name: address: city: state: zip: telephone number: college Major: ", name & address & city & state & zip & telephoneNum & collegeMaj
 *******/
 
 /****
